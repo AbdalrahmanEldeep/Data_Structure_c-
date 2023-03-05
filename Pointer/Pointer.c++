@@ -8,6 +8,9 @@ int main(){
 
   p_num = &num;
 
-  
+  *p_num = 20;
+
+  cout << num;
+
 
 }
