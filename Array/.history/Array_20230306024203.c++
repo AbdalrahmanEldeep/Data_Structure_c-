@@ -1,0 +1,6 @@
+class Array{
+
+   pri
+
+
+}

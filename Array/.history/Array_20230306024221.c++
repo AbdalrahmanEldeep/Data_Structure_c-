@@ -1,0 +1,8 @@
+template
+class Array{
+
+   private : 
+      
+
+
+}

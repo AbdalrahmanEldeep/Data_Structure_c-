@@ -1,0 +1,8 @@
+temp
+class Array{
+
+   private : 
+      
+
+
+}

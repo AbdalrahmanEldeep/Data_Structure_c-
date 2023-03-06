@@ -1,0 +1,8 @@
+trmpl
+class Array{
+
+   private : 
+      
+
+
+}
