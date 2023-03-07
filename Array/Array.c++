@@ -173,17 +173,20 @@ int main()
 {
     Array<int> arr(5);
 
-    cout << arr.isEmpty() << endl; // Check if array is empty or not Big-O(1)
-    cout << arr.isFull() << endl;  // Check if array is Full or not Big-O(1)
+    // cout << arr.isEmpty() << endl; // Check if array is empty or not Big-O(1)
+    // cout << arr.isFull() << endl;  // Check if array is Full or not Big-O(1)
 
-    arr.append(20); // append new value Big-O(1)
-    arr.append(40); // append new value Big-O(1)
-    arr.append(50);                     // append new value Big-O(1)
-    arr.inserter(3, 70);                // insert new value and shift Big-O(n)
-    arr.deleter(3);                     // Delete by index and shift Big-O(n)
-    arr.pop();                          // Delete last Element in array Big-O(1)
-    arr.displayArr();                   // Print Array Values Big-O(n)
-    cout << arr.Min_Value() << endl;    // print min value at the array Big-O(n)
-    cout << arr.Max_Value() << endl;    // print max value at the array Big-O(n)
-    cout << arr.Sequential(40) << endl; // Search -> Sequential Big-O(n)
+    // arr.append(20); // append new value Big-O(1)
+    // arr.append(40); // append new value Big-O(1)
+    // arr.append(50);                     // append new value Big-O(1)
+    // arr.inserter(3, 70);                // insert new value and shift Big-O(n)
+    // arr.deleter(2);                     // Delete by index and shift Big-O(n)
+    // arr.pop();                          // Delete last Element in array Big-O(1)
+    // arr.displayArr();                   // Print Array Values Big-O(n)
+    // cout << arr.Min_Value() << endl;    // print min value at the array Big-O(n)
+    // cout << arr.Max_Value() << endl;    // print max value at the array Big-O(n)
+    // cout << arr.Sequential(4) << endl; // Search -> Sequential Big-O(n)
+
 }
+
+
