@@ -1,8 +1,0 @@
-trmpl
-class Array{
-
-   private : 
-      
-
-
-}

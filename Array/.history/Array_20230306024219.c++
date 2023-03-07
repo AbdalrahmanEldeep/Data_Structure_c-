@@ -1,8 +1,0 @@
-t
-class Array{
-
-   private : 
-      
-
-
-}

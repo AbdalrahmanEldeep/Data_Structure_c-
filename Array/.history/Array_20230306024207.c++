@@ -1,7 +1,0 @@
-class Array{
-
-   private : 
-      
-
-
-}
