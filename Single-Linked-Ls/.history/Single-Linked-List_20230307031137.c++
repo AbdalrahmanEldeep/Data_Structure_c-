@@ -128,7 +128,7 @@ void Ui()
 
     cout << R"(
 
-Made by Black Wolf
+Made b Black Wolf
                         ,     ,
                         |\---/|
                        /  , , |
